@@ -5,7 +5,12 @@ Xudong Wang, UM-SJTU Joint Institute
 ## BACKGROUND
 Visible light communication (VLC) has become a hot research topic due to its potential to support high data rates through ubiquitous LEDs. In the upcoming 5G network, VLC is also being considered as a viable option to alleviate “spectrum crunch”. So far many research groups have already demonstrated the capability of gigabit data transmission over VLC downlink.    
 ###
-However, uplink design of such systems still remains an open problem. VLC uplink cannot coexist with VLC downlink properly for a few reasons. First, it is difficult for access points (APs) or base stations (BSs) to conduct detection and transmission at the same time, due to two factors: 1) signal power from an AP is usually much higher than that from a user; 2) VLC is intensity modulated, so the uplink and downlink signals cannot be distinguished in frequency. Second, because of the physical characteristics of light, VLC link quality can be easily deteriorated by blockage, ambient light, or even angle misalignment between transmitter and receiver, which highly constrains the mobility of users. Third, mobile terminals are usually power limited, which makes VLC unsuitable for uplink communications.    
+However, uplink design of such systems still remains an open problem. VLC uplink cannot coexist with VLC downlink properly for a few reasons. First, it is difficult for access points (APs) or base stations (BSs) to conduct detection and transmission at the same time, due to two factors: 1) signal power from an AP is usually much higher than that from a user; 2) VLC is intensity modulated, so the uplink and downlink signals cannot be distinguished in frequency. Second, because of the physical characteristics of light, VLC link quality can be easily deteriorated by blockage, ambient light, or even angle misalignment between transmitter and receiver, which highly constrains the mobility of users. Third, mobile terminals are usually power limited, which makes VLC unsuitable for uplink communications.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuantong0407/VLC/main/photo.jpg" />
+</p>
+
 ###
 To resolve the uplink issue in VLC communications, we propose to integrate Wi-Fi with VLC. More specifically, in the hybrid wireless system, downlink communications are conducted via VLC, but uplink communications are leveraged through Wi-Fi. The key challenges of such a hybrid system are two-fold: 1) design of medium access control protocol to integrate VLC and Wi-Fi at packet level; 2) system integration of VLC and Wi-Fi into the same wireless link. The similar idea of VLC/Wi-Fi is mentioned in [1][2], but the above challenges have not been resolved yet.
 ## PURPOSE

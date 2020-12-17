@@ -8,7 +8,7 @@ Visible light communication (VLC) has become a hot research topic due to its pot
 However, uplink design of such systems still remains an open problem. VLC uplink cannot coexist with VLC downlink properly for a few reasons. First, it is difficult for access points (APs) or base stations (BSs) to conduct detection and transmission at the same time, due to two factors: 1) signal power from an AP is usually much higher than that from a user; 2) VLC is intensity modulated, so the uplink and downlink signals cannot be distinguished in frequency. Second, because of the physical characteristics of light, VLC link quality can be easily deteriorated by blockage, ambient light, or even angle misalignment between transmitter and receiver, which highly constrains the mobility of users. Third, mobile terminals are usually power limited, which makes VLC unsuitable for uplink communications.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuantong0407/VLC/main/photo.jpg" />
+  <img width="356" height="296" src="https://raw.githubusercontent.com/yuantong0407/VLC/main/photo.jpg" />
 </p>
 
 ###

@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/finalworks/rxup/rxup.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/dwtang/linux-digilent/linux-digilent/scripts/module-common.lds --build-id  -o /home/dwtang/Desktop/finalworks/rxup/rxup.ko /home/dwtang/Desktop/finalworks/rxup/rxup.o /home/dwtang/Desktop/finalworks/rxup/rxup.mod.o

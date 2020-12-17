@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/rx/ack/ackmod.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/dwtang/linux-digilent/linux-digilent/scripts/module-common.lds --build-id  -o /home/dwtang/Desktop/rx/ack/ackmod.ko /home/dwtang/Desktop/rx/ack/ackmod.o /home/dwtang/Desktop/rx/ack/ackmod.mod.o

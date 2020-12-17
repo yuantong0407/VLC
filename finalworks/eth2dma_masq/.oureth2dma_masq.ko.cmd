@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/finalworks/eth2dma_masq/oureth2dma_masq.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/dwtang/linux-digilent/linux-digilent/scripts/module-common.lds --build-id  -o /home/dwtang/Desktop/finalworks/eth2dma_masq/oureth2dma_masq.ko /home/dwtang/Desktop/finalworks/eth2dma_masq/oureth2dma_masq.o /home/dwtang/Desktop/finalworks/eth2dma_masq/oureth2dma_masq.mod.o

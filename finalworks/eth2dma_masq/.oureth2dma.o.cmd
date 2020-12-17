@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/finalworks/eth2dma/oureth2dma.o := arm-linux-gnueabihf-ld -EL    -r -o /home/dwtang/Desktop/finalworks/eth2dma/oureth2dma.o /home/dwtang/Desktop/finalworks/eth2dma/eth2dma.o /home/dwtang/Desktop/finalworks/eth2dma/dma_w.o 

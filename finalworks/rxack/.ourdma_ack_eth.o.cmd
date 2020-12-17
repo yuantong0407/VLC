@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/finalworks/rxack/ourdma_ack_eth.o := arm-linux-gnueabihf-ld -EL    -r -o /home/dwtang/Desktop/finalworks/rxack/ourdma_ack_eth.o /home/dwtang/Desktop/finalworks/rxack/dma_r.o /home/dwtang/Desktop/finalworks/rxack/dma2eth.o /home/dwtang/Desktop/finalworks/rxack/ackmod.o 

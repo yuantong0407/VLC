@@ -1,0 +1,1 @@
+cmd_/home/dwtang/Desktop/finalworks/rxdebug/rxdebug.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/dwtang/linux-digilent/linux-digilent/scripts/module-common.lds --build-id  -o /home/dwtang/Desktop/finalworks/rxdebug/rxdebug.ko /home/dwtang/Desktop/finalworks/rxdebug/rxdebug.o /home/dwtang/Desktop/finalworks/rxdebug/rxdebug.mod.o
